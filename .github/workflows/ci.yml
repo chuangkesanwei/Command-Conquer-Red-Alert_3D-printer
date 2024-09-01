@@ -15,7 +15,7 @@ jobs:
       contents: write
   
     steps:
-      - name: Clone repository
+      - name: Clone repository1
         uses: actions/checkout@v3
 
       - name: Auto green
